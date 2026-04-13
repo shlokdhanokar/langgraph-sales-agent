@@ -13,7 +13,6 @@
 </p>
 
 ---
-
 ## 📖 Overview
 
 The **AutoStream Agent** is a cutting-edge conversational AI designed for the fictional SaaS company, AutoStream (Automated Video Editing). Rather than a simple chatbot, it operates as a **decision-making agent** with logic, memory, and robust tool execution guarantees.
